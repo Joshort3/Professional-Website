@@ -1,3 +1,3 @@
 # Website
 HTML Code for my Website
-http://people.tamu.edu/~joshort3/index.html
+https://joshort3.github.io/Professional-Website/index.html
